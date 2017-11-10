@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentsExample</string>
+    <string name="first_fragment1">First fragment</string>
+    <string name="second_fragment1">Second fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="this_is_second_fragment">This is second fragment</string>
+    <string name="this_is_first_fragment">This is first fragment</string>
+    <string name="first_fragment">First fragment</string>
+</resources>
